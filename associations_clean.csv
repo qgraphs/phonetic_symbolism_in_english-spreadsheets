@@ -1,0 +1,338 @@
+,No.,Short Citation (Study id.),Study no.,Study id. + no.,Consonant/Vowel,Consonant/Vowel_short,Phonetic feature,C/V + feature,Semantic dimension,Semantic feature
+0,1,"Sapir, 1929",1,"Sapir, 1929: 1",vowel,V,open front,V: open front,size,big
+1,2,"Sapir, 1929",1,"Sapir, 1929: 1",vowel,V,close front,V: close front,size,small
+2,3,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,shape,sharp
+3,4,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,shape,round
+4,5,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,speed,slow
+5,6,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,speed,fast
+6,7,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,happiness,happy
+7,8,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,happiness,sad
+8,9,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,excitement,exciting
+9,10,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,excitement,calming
+10,11,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,reality,realistic
+11,12,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,reality,fantastical
+12,13,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,activity,passive
+13,14,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,activity,active
+14,15,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,weight,heavy
+15,16,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,weight,light
+16,17,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,gender,masculine
+17,18,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,gender,feminine
+18,19,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,front,V: front,size,small
+19,20,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",vowel,V,back,V: back,size,big
+20,21,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,activity,passive
+21,22,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,potency,impotent
+22,23,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,novelty,ordinary
+23,24,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,activity,active
+24,25,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,potency,potent
+25,26,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,novelty,unique
+26,27,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless fricative,C: voiceless fricative,potency,impotent
+27,28,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,activity,active
+28,29,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,potency,potent
+29,30,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced stop,C: voiced stop,potency,potent
+30,31,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced stop,C: voiced stop,novelty,ordinary
+31,32,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,continuity,continuous
+32,33,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,beauty,beautiful
+33,34,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,size,small
+34,35,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,danger,safe
+35,36,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,subtlety,delicate
+36,37,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,excitement,calming
+37,38,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,speed,slow
+38,39,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,hardness,soft
+39,40,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,intensity,mild
+40,41,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,weight,light
+41,42,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,freedom,free
+42,43,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,gender,feminine
+43,44,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,uniqueness,ordinary
+44,45,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,shape,round
+45,46,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,complexity,simple
+46,47,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,solidity,liquid
+47,48,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,strength,weak
+48,49,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,sonorant,C: sonorant,tension,loose
+49,50,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,continuity,abrupt
+50,51,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,size,big
+51,52,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,danger,dangerous
+52,53,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,subtlety,crude
+53,54,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,excitement,exciting
+54,55,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,speed,fast
+55,56,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,hardness,hard
+56,57,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,intensity,harsh
+57,58,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,weight,heavy
+58,59,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,interest,interesting
+59,60,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,uniqueness,unique
+60,61,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,reality,fantastical
+61,62,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,shape,sharp
+62,63,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,complexity,complex
+63,64,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced fricative,C: voiced fricative,strength,strong
+64,65,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless fricative,C: voiceless fricative,beauty,beautiful
+65,66,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless fricative,C: voiceless fricative,size,small
+66,67,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless fricative,C: voiceless fricative,hardness,soft
+67,68,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless fricative,C: voiceless fricative,weight,light
+68,69,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless fricative,C: voiceless fricative,gender,feminine
+69,70,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,continuity,abrupt
+70,71,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,danger,dangerous
+71,72,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,subtlety,crude
+72,73,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,excitement,exciting
+73,74,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,speed,fast
+74,75,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,hardness,hard
+75,76,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,intensity,harsh
+76,77,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,freedom,inhibited
+77,78,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,gender,masculine
+78,79,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,reality,realistic
+79,80,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,shape,sharp
+80,81,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,solidity,solid
+81,82,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,strength,strong
+82,83,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiceless stop,C: voiceless stop,tension,tense
+83,84,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced stop,C: voiced stop,beauty,ugly
+84,85,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced stop,C: voiced stop,size,big
+85,86,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced stop,C: voiced stop,weight,heavy
+86,87,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced stop,C: voiced stop,interest,uninteresting
+87,88,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced stop,C: voiced stop,gender,masculine
+88,89,"Sidhu, Vigliocco, and Pexman, 2022",1,"Sidhu, Vigliocco, and Pexman, 2022: 1",consonant,C,voiced stop,C: voiced stop,shape,round
+89,90,"McCormick et al., 2015",1,"McCormick et al., 2015: 1",vowel,V,rounded,V: rounded,shape,round
+90,91,"McCormick et al., 2015",1,"McCormick et al., 2015: 1",vowel,V,unrounded,V: unrounded,shape,sharp
+91,92,"McCormick et al., 2015",1,"McCormick et al., 2015: 1",consonant,C,obstruent,C: obstruent,shape,sharp
+92,93,"McCormick et al., 2015",1,"McCormick et al., 2015: 1",consonant,C,sonorant,C: sonorant,shape,round
+93,94,"McCormick et al., 2015",1,"McCormick et al., 2015: 1",consonant,C,voiceless stop,C: voiceless stop,shape,sharp
+94,95,"McCormick et al., 2015",1,"McCormick et al., 2015: 1",consonant,C,voiced stop,C: voiced stop,shape,round
+95,96,"McCormick et al., 2015",1,"McCormick et al., 2015: 1",consonant,C,voiceless,C: voiceless,shape,sharp
+96,97,"McCormick et al., 2015",1,"McCormick et al., 2015: 1",consonant,C,voiced,C: voiced,shape,round
+97,98,"McCormick et al., 2015",2,"McCormick et al., 2015: 2",consonant,C,voiceless stop,C: voiceless stop,shape,sharp
+98,99,"McCormick et al., 2015",2,"McCormick et al., 2015: 2",consonant,C,voiced stop,C: voiced stop,shape,round
+99,100,"McCormick et al., 2015",2,"McCormick et al., 2015: 2",consonant,C,voiceless fricative/affricate,C: voiceless fricative/affricate,shape,round
+100,101,"McCormick et al., 2015",2,"McCormick et al., 2015: 2",consonant,C,voiced fricative/affricate,C: voiced fricative/affricate,shape,sharp
+101,102,"McCormick et al., 2015",2,"McCormick et al., 2015: 2",consonant,C,sonorant,C: sonorant,shape,round
+102,103,"McCormick et al., 2015",2,"McCormick et al., 2015: 2",consonant,C,fricative/affricate,C: fricative/affricate,shape,sharp
+103,104,"McCormick et al., 2015",2,"McCormick et al., 2015: 2",consonant,C,stop,C: stop,shape,sharp
+104,105,"McCormick et al., 2015",3,"McCormick et al., 2015: 3",consonant,C,voiced stop,C: voiced stop,shape,round
+105,106,"McCormick et al., 2015",3,"McCormick et al., 2015: 3",consonant,C,voiceless stop,C: voiceless stop,shape,sharp
+106,107,"McCormick et al., 2015",3,"McCormick et al., 2015: 3",consonant,C,fricative/affricate,C: fricative/affricate,shape,sharp
+107,108,"McCormick et al., 2015",3,"McCormick et al., 2015: 3",consonant,C,sonorant,C: sonorant,shape,round
+108,109,"McCormick et al., 2015",3,"McCormick et al., 2015: 3",consonant,C,stop,C: stop,shape,sharp
+109,110,"Knoeferle et al., 2017",1,"Knoeferle et al., 2017: 1",vowel,V,open,V: open,size,big
+110,111,"Knoeferle et al., 2017",1,"Knoeferle et al., 2017: 1",vowel,V,front,V: front,size,small
+111,112,"Knoeferle et al., 2017",1,"Knoeferle et al., 2017: 1",consonant,C,nasal,C: nasal,size,small
+112,113,"Knoeferle et al., 2017",1,"Knoeferle et al., 2017: 1",consonant,C,glide,C: glide,size,big
+113,114,"Knoeferle et al., 2017",1,"Knoeferle et al., 2017: 1",consonant,C,voiced fricative,C: voiced fricative,size,small
+114,115,"Knoeferle et al., 2017",1,"Knoeferle et al., 2017: 1",consonant,C,voiced stop,C: voiced stop,size,small
+115,116,"Knoeferle et al., 2017",1,"Knoeferle et al., 2017: 1",consonant,C,voiceless fricative,C: voiceless fricative,size,small
+116,117,"Knoeferle et al., 2017",1,"Knoeferle et al., 2017: 1",consonant,C,voiceless stop,C: voiceless stop,size,small
+117,118,"Knoeferle et al., 2017",2,"Knoeferle et al., 2017: 2",vowel,V,front,V: front,shape,sharp
+118,119,"Knoeferle et al., 2017",2,"Knoeferle et al., 2017: 2",consonant,C,nasal,C: nasal,shape,sharp
+119,120,"Knoeferle et al., 2017",2,"Knoeferle et al., 2017: 2",consonant,C,glide,C: glide,shape,round
+120,121,"Knoeferle et al., 2017",2,"Knoeferle et al., 2017: 2",consonant,C,voiced fricative,C: voiced fricative,shape,sharp
+121,122,"Knoeferle et al., 2017",2,"Knoeferle et al., 2017: 2",consonant,C,voiced stop,C: voiced stop,shape,sharp
+122,123,"Knoeferle et al., 2017",2,"Knoeferle et al., 2017: 2",consonant,C,voiceless fricative,C: voiceless fricative,shape,sharp
+123,124,"Knoeferle et al., 2017",2,"Knoeferle et al., 2017: 2",consonant,C,voiceless stop,C: voiceless stop,shape,sharp
+124,125,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,voiced,C: voiced,gender,masculine
+125,126,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,velar,C: velar,gender,masculine
+126,127,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,fricative,C: fricative,gender,feminine
+127,128,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,velar,C: velar,speed,fast
+128,129,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,fricative,C: fricative,speed,fast
+129,130,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,voiced,C: voiced,speed,fast
+130,131,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,velar,C: velar,hardness,hard
+131,132,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,voiced,C: voiced,hardness,hard
+132,133,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,velar,C: velar,hardness,soft
+133,134,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,voiceless,C: voiceless,hardness,soft
+134,135,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,voiced,C: voiced,size,big
+135,136,"Monaghan and Fletcher, 2019",1,"Monaghan and Fletcher, 2019: 1",consonant,C,voiceless,C: voiceless,size,small
+136,137,"Kawahara and Shinohara, 2015",1,"Kawahara and Shinohara, 2015: 1",consonant,C,sonorant,C: sonorant,agreeableness,agreeable
+137,138,"Kawahara and Shinohara, 2015",1,"Kawahara and Shinohara, 2015: 1",consonant,C,voiceless stop,C: voiceless stop,agreeableness,disagreeable
+138,139,"Sidhu et al., 2019",1,"Sidhu et al., 2019: 1",consonant,C,sonorant,C: sonorant,agreeableness,agreeable
+139,140,"Sidhu et al., 2019",1,"Sidhu et al., 2019: 1",consonant,C,voiceless stop,C: voiceless stop,agreeableness,disagreeable
+140,141,"Sidhu et al., 2019",1,"Sidhu et al., 2019: 1",consonant,C,sonorant,C: sonorant,approachability,approachable
+141,142,"Sidhu et al., 2019",1,"Sidhu et al., 2019: 1",consonant,C,voiceless stop,C: voiceless stop,conscientiousness,unconscientious
+142,143,"Sidhu et al., 2019",1,"Sidhu et al., 2019: 1",consonant,C,sonorant,C: sonorant,conscientiousness,conscientious
+143,144,"Sidhu et al., 2019",2,"Sidhu et al., 2019: 2",consonant,C,sonorant,C: sonorant,conscientiousness,conscientious
+144,145,"Sidhu et al., 2019",2,"Sidhu et al., 2019: 2",consonant,C,voiceless stop,C: voiceless stop,conscientiousness,unconscientious
+145,146,"Sidhu et al., 2019",2,"Sidhu et al., 2019: 2",consonant,C,sonorant,C: sonorant,emotionality,emotional
+146,147,"Sidhu et al., 2019",2,"Sidhu et al., 2019: 2",consonant,C,voiceless stop,C: voiceless stop,emotionality,unemotional
+147,148,"Sidhu et al., 2019",3,"Sidhu et al., 2019: 3",consonant,C,voiceless stop,C: voiceless stop,extraversion,extravert
+148,149,"Sidhu et al., 2019",3,"Sidhu et al., 2019: 3",consonant,C,sonorant,C: sonorant,extraversion,introvert
+149,150,"Sidhu et al., 2019",3,"Sidhu et al., 2019: 3",consonant,C,sonorant,C: sonorant,honesty-humility,honest-humble
+150,151,"Sidhu et al., 2019",3,"Sidhu et al., 2019: 3",consonant,C,voiceless stop,C: voiceless stop,honesty-humility,dishonest-immodest
+151,152,"Sidhu et al., 2019",3,"Sidhu et al., 2019: 3",consonant,C,sonorant,C: sonorant,openness,open
+152,153,"Sidhu et al., 2019",3,"Sidhu et al., 2019: 3",consonant,C,voiceless stop,C: voiceless stop,openness,close
+153,154,"Sidhu et al., 2019",3,"Sidhu et al., 2019: 3",consonant,C,obstruent,C: obstruent,approachability,unapproachable
+154,155,"Shinohara et al., 2023",1,"Shinohara et al., 2023: 1",consonant,C,voiced obstruent,C: voiced obstruent,hardness,soft
+155,156,"Shinohara et al., 2023",1,"Shinohara et al., 2023: 1",consonant,C,voiceless obstruent,C: voiceless obstruent,hardness,hard
+156,157,"Maglio et al., 2014",1,"Maglio et al., 2014: 1",vowel,V,front,V: front,visual precision,precise
+157,158,"Maglio et al., 2014",1,"Maglio et al., 2014: 1",vowel,V,back,V: back,visual precision,imprecise
+158,159,"Maglio et al., 2014",2,"Maglio et al., 2014: 2",vowel,V,back,V: back,conceptual precision,imprecise
+159,160,"Maglio et al., 2014",2,"Maglio et al., 2014: 2",vowel,V,front,V: front,conceptual precision,precise
+160,161,"Maglio et al., 2014",3,"Maglio et al., 2014: 3",vowel,V,back,V: back,feasibility,desirable
+161,162,"Maglio et al., 2014",3,"Maglio et al., 2014: 3",vowel,V,front,V: front,feasibility,feasible
+162,163,"Maglio et al., 2014",4,"Maglio et al., 2014: 4",vowel,V,front,V: front,features,secondary
+163,164,"Maglio et al., 2014",4,"Maglio et al., 2014: 4",vowel,V,back,V: back,features,primary
+164,165,"Maglio et al., 2014",5,"Maglio et al., 2014: 5",vowel,V,front,V: front,effect,short term
+165,166,"Maglio et al., 2014",5,"Maglio et al., 2014: 5",vowel,V,back,V: back,effect,long term
+166,167,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,bilabial,C: bilabial,shape,round
+167,168,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,voiced,C: voiced,shape,round
+168,169,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,velar,C: velar,shape,sharp
+169,170,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,lateral approximant,C: lateral approximant,shape,round
+170,171,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,labiodental,C: labiodental,shape,sharp
+171,172,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,front,V: front,shape,sharp
+172,173,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,alveolar,C: alveolar,shape,sharp
+173,174,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,nasal,C: nasal,shape,round
+174,175,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,back,V: back,size,big
+175,176,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,voiced,C: voiced,size,big
+176,177,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,postalveolar,C: postalveolar,size,big
+177,178,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,glottal,C: glottal,size,big
+178,179,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,close,V: close,gender,feminine
+179,180,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,velar,C: velar,gender,masculine
+180,181,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,close-mid,V: close-mid,gender,feminine
+181,182,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,front,V: front,gender,feminine
+182,183,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,lateral approximant,C: lateral approximant,gender,feminine
+183,184,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,voiced,C: voiced,gender,masculine
+184,185,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,close-mid,V: close-mid,concreteness,concrete
+185,186,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,voiced,C: voiced,concreteness,abstract
+186,187,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,close-mid,V: close-mid,concreteness,abstract
+187,188,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,lateral approximant,C: lateral approximant,concreteness,concrete
+188,189,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,front,V: front,concreteness,abstract
+189,190,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,open,V: open,concreteness,abstract
+190,191,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,stop,C: stop,concreteness,concrete
+191,192,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,alveolar,C: alveolar,concreteness,abstract
+192,193,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,front,V: front,valence,positive
+193,194,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,close-mid,V: close-mid,valence,positive
+194,195,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,labiodental,C: labiodental,valence,negative
+195,196,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",vowel,V,back,V: back,valence,positive
+196,197,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,velar,C: velar,valence,negative
+197,198,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,stop,C: stop,valence,negative
+198,199,"Westbury et al., 2018",1,"Westbury et al., 2018: 1",consonant,C,voiced,C: voiced,valence,negative
+199,200,"Miron, 1961",1,"Miron, 1961: 1",consonant,C,anterior,C: anterior,valence,positive
+200,201,"Miron, 1961",1,"Miron, 1961: 1",consonant,C,anterior,C: anterior,potency,impotent
+201,202,"Miron, 1961",1,"Miron, 1961: 1",vowel,V,front,V: front,valence,positive
+202,203,"Miron, 1961",1,"Miron, 1961: 1",vowel,V,front,V: front,potency,impotent
+203,204,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,size,small
+204,205,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,size,big
+205,206,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,brightness,bright
+206,207,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,brightness,dark
+207,208,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,intensity,harsh
+208,209,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,intensity,mild
+209,210,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,thickness,thick
+210,211,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,thickness,thin
+211,212,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,hardness,soft
+212,213,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,hardness,hard
+213,214,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,speed,fast
+214,215,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,speed,slow
+215,216,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,temperature,cold
+216,217,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,temperature,hot
+217,218,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,intensity,harsh
+218,219,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,intensity,mild
+219,220,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,gender,feminine
+220,221,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,gender,masculine
+221,222,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,friendliness,unfriendly
+222,223,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,friendliness,friendly
+223,224,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,strength,strong
+224,225,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,strength,weak
+225,226,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,weight,heavy
+226,227,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,weight,light
+227,228,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,front,V: front,beauty,beautiful
+228,229,"Klink, 2000",1,"Klink, 2000: 1",vowel,V,back,V: back,beauty,ugly
+229,230,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,fricative,C: fricative,size,small
+230,231,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,stop,C: stop,size,big
+231,232,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,fricative,C: fricative,speed,fast
+232,233,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,stop,C: stop,speed,slow
+233,234,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,stop,C: stop,weight,heavy
+234,235,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,fricative,C: fricative,weight,light
+235,236,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,fricative,C: fricative,gender,feminine
+236,237,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,stop,C: stop,gender,masculine
+237,238,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiceless stop,C: voiceless stop,size,small
+238,239,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiced stop,C: voiced stop,size,big
+239,240,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiced stop,C: voiced stop,speed,slow
+240,241,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiceless stop,C: voiceless stop,speed,fast
+241,242,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiced stop,C: voiced stop,weight,heavy
+242,243,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiceless stop,C: voiceless stop,weight,light
+243,244,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiced stop,C: voiced stop,shape,round
+244,245,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiceless stop,C: voiceless stop,shape,sharp
+245,246,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiced stop,C: voiced stop,gender,masculine
+246,247,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiceless stop,C: voiceless stop,gender,feminine
+247,248,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiceless fricative,C: voiceless fricative,speed,fast
+248,249,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiced fricative,C: voiced fricative,speed,slow
+249,250,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiceless fricative,C: voiceless fricative,hardness,soft
+250,251,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiced fricative,C: voiced fricative,hardness,hard
+251,252,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiced fricative,C: voiced fricative,gender,masculine
+252,253,"Klink, 2000",1,"Klink, 2000: 1",consonant,C,voiceless fricative,C: voiceless fricative,gender,feminine
+253,254,"Klink, 2000",2,"Klink, 2000: 2",consonant,C,labiodental fricative,C: labiodental fricative,speed,fast
+254,255,"Klink, 2000",2,"Klink, 2000: 2",consonant,C,velar stop,C: velar stop,speed,slow
+255,256,"Klink, 2000",2,"Klink, 2000: 2",consonant,C,labiodental fricative,C: labiodental fricative,weight,light
+256,257,"Klink, 2000",2,"Klink, 2000: 2",consonant,C,velar stop,C: velar stop,weight,heavy
+257,258,"Klink, 2000",2,"Klink, 2000: 2",consonant,C,labiodental fricative,C: labiodental fricative,size,small
+258,259,"Klink, 2000",2,"Klink, 2000: 2",consonant,C,velar stop,C: velar stop,size,big
+259,260,"Klink, 2000",2,"Klink, 2000: 2",vowel,V,open back,V: open back,hardness,hard
+260,261,"Klink, 2000",2,"Klink, 2000: 2",vowel,V,close front,V: close front,hardness,soft
+261,262,"Klink, 2000",2,"Klink, 2000: 2",vowel,V,open back,V: open back,gender,masculine
+262,263,"Klink, 2000",2,"Klink, 2000: 2",vowel,V,close front,V: close front,gender,feminine
+263,264,"Klink, 2003",1,"Klink, 2003: 1",vowel,V,back,V: back,brightness,dark
+264,265,"Klink, 2003",1,"Klink, 2003: 1",vowel,V,front,V: front,brightness,bright
+265,266,"Klink, 2003",1,"Klink, 2003: 1",consonant,C,fricative,C: fricative,brightness,bright
+266,267,"Klink, 2003",1,"Klink, 2003: 1",consonant,C,stop,C: stop,brightness,dark
+267,268,"Klink, 2003",1,"Klink, 2003: 1",vowel,V,front,V: front,shape,sharp
+268,269,"Klink, 2003",1,"Klink, 2003: 1",vowel,V,back,V: back,shape,round
+269,270,"Klink, 2003",1,"Klink, 2003: 1",vowel,V,front,V: front,size,small
+270,271,"Klink, 2003",1,"Klink, 2003: 1",vowel,V,back,V: back,size,big
+271,272,"Klink, 2003",1,"Klink, 2003: 1",consonant,C,fricative,C: fricative,size,small
+272,273,"Klink, 2003",1,"Klink, 2003: 1",consonant,C,stop,C: stop,size,big
+273,274,"Klink and Wu, 2017",1,"Klink and Wu, 2017: 1",vowel,V,back,V: back,ethicality,unethical
+274,275,"Klink and Wu, 2017",1,"Klink and Wu, 2017: 1",vowel,V,front,V: front,ethicality,ethical
+275,276,"Klink and Wu, 2017",1,"Klink and Wu, 2017: 1",consonant,C,fricative,C: fricative,ethicality,ethical
+276,277,"Klink and Wu, 2017",1,"Klink and Wu, 2017: 1",consonant,C,stop,C: stop,ethicality,unethical
+277,278,"Wu, Klink, and Guo, 2013",1,"Wu, Klink, and Guo, 2013: 1",vowel,V,close front,V: close front,gender,feminine
+278,279,"Wu, Klink, and Guo, 2013",1,"Wu, Klink, and Guo, 2013: 1",vowel,V,open back,V: open back,gender,masculine
+279,280,"Wu, Klink, and Guo, 2013",2,"Wu, Klink, and Guo, 2013: 2",vowel,V,close front,V: close front,gender,feminine
+280,281,"Wu, Klink, and Guo, 2013",2,"Wu, Klink, and Guo, 2013: 2",vowel,V,open back,V: open back,gender,masculine
+281,282,"Cuskley, 2013",1,"Cuskley, 2013: 1",vowel,V,back,V: back,speed,slow
+282,283,"Cuskley, 2013",1,"Cuskley, 2013: 1",vowel,V,front,V: front,speed,fast
+283,284,"Nielsen and Rendall, 2011",1,"Nielsen and Rendall, 2011: 1",consonant,C,stop,C: stop,shape,sharp
+284,285,"Nielsen and Rendall, 2011",1,"Nielsen and Rendall, 2011: 1",consonant,C,sonorant,C: sonorant,shape,round
+285,286,"Nielsen and Rendall, 2011",2,"Nielsen and Rendall, 2011: 2",consonant,C,stop,C: stop,shape,sharp
+286,287,"Nielsen and Rendall, 2011",2,"Nielsen and Rendall, 2011: 2",consonant,C,sonorant,C: sonorant,shape,round
+287,288,"Nielsen and Rendall, 2012",1,"Nielsen and Rendall, 2012: 1",consonant,C,stop,C: stop,shape,sharp
+288,289,"Nielsen and Rendall, 2012",1,"Nielsen and Rendall, 2012: 1",consonant,C,sonorant,C: sonorant,shape,round
+289,290,"Nielsen and Rendall, 2013",1,"Nielsen and Rendall, 2013: 1",consonant,C,stop,C: stop,shape,sharp
+290,291,"Nielsen and Rendall, 2013",1,"Nielsen and Rendall, 2013: 1",consonant,C,sonorant,C: sonorant,shape,round
+291,292,"Nielsen and Rendall, 2013",1,"Nielsen and Rendall, 2013: 1",vowel,V,unrounded,V: unrounded,shape,sharp
+292,293,"Nielsen and Rendall, 2013",1,"Nielsen and Rendall, 2013: 1",vowel,V,rounded,V: rounded,shape,round
+293,294,"Simner, Cuskley, and Kirby, 2010",1,"Simner, Cuskley, and Kirby, 2010: 1",vowel,V,open,V: open,intensity,harsh
+294,295,"Simner, Cuskley, and Kirby, 2010",1,"Simner, Cuskley, and Kirby, 2010: 1",vowel,V,front,V: front,intensity,harsh
+295,296,"Simner, Cuskley, and Kirby, 2010",1,"Simner, Cuskley, and Kirby, 2010: 1",vowel,V,open,V: open,taste,sweet
+296,297,"Simner, Cuskley, and Kirby, 2010",1,"Simner, Cuskley, and Kirby, 2010: 1",vowel,V,front,V: front,taste,sour
+297,298,"Tarte and Barritt, 1971",1,"Tarte and Barritt, 1971: 1",vowel,V,close front,V: close front,shape,sharp
+298,299,"Tarte and Barritt, 1971",1,"Tarte and Barritt, 1971: 1",vowel,V,close back,V: close back,shape,round
+299,300,"Tarte and Barritt, 1971",1,"Tarte and Barritt, 1971: 1",vowel,V,close front,V: close front,size,small
+300,301,"Tarte and Barritt, 1971",1,"Tarte and Barritt, 1971: 1",vowel,V,open back,V: open back,size,big
+301,302,"Tarte and Barritt, 1971",3,"Tarte and Barritt, 1971: 3",vowel,V,close front,V: close front,shape,sharp
+302,303,"Tarte and Barritt, 1971",3,"Tarte and Barritt, 1971: 3",vowel,V,close back,V: close back,shape,round
+303,304,"Tarte and Barritt, 1971",2,"Tarte and Barritt, 1971: 2",vowel,V,close front,V: close front,size,small
+304,305,"Tarte and Barritt, 1971",2,"Tarte and Barritt, 1971: 2",vowel,V,open back,V: open back,size,big
+305,306,"Tarte and Barritt, 1971",3,"Tarte and Barritt, 1971: 3",vowel,V,close front,V: close front,size,small
+306,307,"Tarte and Barritt, 1971",3,"Tarte and Barritt, 1971: 3",vowel,V,open back,V: open back,size,big
+307,308,"Tarte and Barritt, 1971",1,"Tarte and Barritt, 1971: 1",consonant,C,bilabial glide,C: bilabial glide,size,small
+308,309,"Tarte and Barritt, 1971",1,"Tarte and Barritt, 1971: 1",consonant,C,voiceless velar stop,C: voiceless velar stop,size,big
+309,310,"Tarte and Barritt, 1971",1,"Tarte and Barritt, 1971: 1",consonant,C,bilabial glide,C: bilabial glide,shape,round
+310,311,"Tarte and Barritt, 1971",1,"Tarte and Barritt, 1971: 1",consonant,C,voiceless velar stop,C: voiceless velar stop,shape,sharp
+311,312,"Thompson and Estes, 2011",1,"Thompson and Estes, 2011: 1",consonant,C,voiceless,C: voiceless,size,small
+312,313,"Thompson and Estes, 2011",1,"Thompson and Estes, 2011: 1",consonant,C,voiced,C: voiced,size,big
+313,314,"Thompson and Estes, 2011",1,"Thompson and Estes, 2011: 1",vowel,V,back,V: back,size,big
+314,315,"Thompson and Estes, 2011",1,"Thompson and Estes, 2011: 1",vowel,V,front,V: front,size,small
+315,316,"Thompson and Estes, 2011",2,"Thompson and Estes, 2011: 2",consonant,C,voiced stop,C: voiced stop,size,big
+316,317,"Thompson and Estes, 2011",2,"Thompson and Estes, 2011: 2",consonant,C,voiceless stop,C: voiceless stop,size,small
+317,318,"Thompson and Estes, 2011",2,"Thompson and Estes, 2011: 2",vowel,V,front,V: front,size,small
+318,319,"Thompson and Estes, 2011",2,"Thompson and Estes, 2011: 2",vowel,V,back,V: back,size,big
+319,320,"Kawahara and Moore, 2018",1,"Kawahara and Moore, 2018: 1",consonant,C,voiced obstruent,C: voiced obstruent,size,big
+320,321,"Kawahara and Moore, 2018",1,"Kawahara and Moore, 2018: 1",consonant,C,voiceless obstruent,C: voiceless obstruent,size,small
+321,322,"Kawahara and Moore, 2018",1,"Kawahara and Moore, 2018: 1",vowel,V,open back,V: open back,size,big
+322,323,"Kawahara and Moore, 2018",1,"Kawahara and Moore, 2018: 1",vowel,V,close front,V: close front,size,small
+323,324,"Kawahara and Moore, 2018",1,"Kawahara and Moore, 2018: 1",vowel,V,back,V: back,size,big
+324,325,"Kawahara and Moore, 2018",1,"Kawahara and Moore, 2018: 1",vowel,V,front,V: front,size,small
+325,326,"Kawahara and Moore, 2018",2,"Kawahara and Moore, 2018: 2",consonant,C,coronal,C: coronal,size,big
+326,327,"Kawahara and Moore, 2018",2,"Kawahara and Moore, 2018: 2",consonant,C,labial,C: labial,size,small
+327,328,"Maurer, Pathman, and Mondloch, 2006",1,"Maurer, Pathman, and Mondloch, 2006: 1",vowel,V,unrounded,V: unrounded,shape,sharp
+328,329,"Maurer, Pathman, and Mondloch, 2006",1,"Maurer, Pathman, and Mondloch, 2006: 1",vowel,V,rounded,V: rounded,shape,round
+329,330,"Maurer, Pathman, and Mondloch, 2006",2,"Maurer, Pathman, and Mondloch, 2006: 2",vowel,V,unrounded,V: unrounded,shape,sharp
+330,331,"Maurer, Pathman, and Mondloch, 2006",2,"Maurer, Pathman, and Mondloch, 2006: 2",vowel,V,rounded,V: rounded,shape,round
+331,332,"Preziosi and Coane, 2017",1,"Preziosi and Coane, 2017: 1",consonant,C,stop,C: stop,size,big
+332,333,"Preziosi and Coane, 2017",1,"Preziosi and Coane, 2017: 1",consonant,C,fricative,C: fricative,size,small
+333,334,"Preziosi and Coane, 2017",1,"Preziosi and Coane, 2017: 1",vowel,V,front,V: front,size,small
+334,335,"Preziosi and Coane, 2017",1,"Preziosi and Coane, 2017: 1",vowel,V,back,V: back,size,big
+335,336,"Preziosi and Coane, 2017",2,"Preziosi and Coane, 2017: 2",consonant,C,stop,C: stop,size,big
+336,337,"Preziosi and Coane, 2017",2,"Preziosi and Coane, 2017: 2",consonant,C,fricative,C: fricative,size,small
